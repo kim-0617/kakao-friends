@@ -1,0 +1,27 @@
+* {
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+a {
+    text-decoration: none;
+}
+
+li {
+    list-style: none;
+}
+
+.wrap {
+    padding: 10px;
+}
+
+div {
+    margin-bottom: 10px;
+}
+
+div > button {
+    display: block;
+    width: 100px;
+    padding: 5px;
+}
